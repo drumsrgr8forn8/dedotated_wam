@@ -1,6 +1,6 @@
 # DedotatedWam
 
-TODO: Write a gem description
+<iframe width="560" height="315" src="http://www.youtube.com/embed/wsO-Td0hqXo" frameborder="0" allowfullscreen></iframe>
 
 ## Installation
 
